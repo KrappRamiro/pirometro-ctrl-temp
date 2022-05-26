@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "arduino")(type "KiCad")(uri "/home/krapp/SparkFun-KiCad-Libraries/Libraries/SparkFun-Boards.kicad_sym")(options "")(descr ""))
+)
